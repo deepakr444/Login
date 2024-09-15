@@ -1,4 +1,3 @@
-<?php
 <!DOCTYPE html>
 
 <link rel="stylesheet" href="stylesheet.css"/>
@@ -79,4 +78,3 @@
 
 </div>
 <script src="script.js"></script>
-?>
